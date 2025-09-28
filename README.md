@@ -1,5 +1,5 @@
-DAA-asik-1
-putting the Divide and Conquer methods into action in Java and checking how well they perform
+DAA-asik-1 | 
+putting the Divide and Conquer methods into action in Java and checking how well they perform | Daniyar Kairatov
 ---------------------------------------------------------------------------------------------------------------------------------------------
  > Project Description
 
